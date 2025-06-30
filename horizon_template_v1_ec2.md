@@ -26,6 +26,7 @@
 - **Usefulness:** The data supports computational research in political science, quantum social choice, and civic technology. Data may be reused by researchers in CSS, governance, and AI ethics.
 - **Metadata Specification:** Detailed metadata for each dataset is available in the project's structured data specification (data-collections.csv and associated files).
   - **Example Documentation:** Format and provenance documentation are available for each dataset. See, e.g., `LLM_Synthetic_Preferences_data_format.md` and `LLM_Synthetic_Preferences_data__Outputs_provenance.md`.
+- **Repository:** The living DMP and data specification files are maintained at: [https://github.com/centre-for-humanities-computing/dmp-EC2](https://github.com/centre-for-humanities-computing/dmp-EC2)
 
 ## 2. FAIR Data
 
