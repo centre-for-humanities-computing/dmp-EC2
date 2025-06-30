@@ -1,0 +1,7 @@
+identifier,description, type,classification,supplier,agreements,finansing,used from,used to
+AU-ERDA, General scientific data facility at AU, storage/archive,protected data,AU IT,internal system,AU finansed,9/1/25,1/1/33
+AU-SIF, Sensitive data facility at AU, storage/archive,protected data,AU IT,internal system,AU finansed,9/1/25,1/1/33
+DeiC Interactive HPC, National HPC facility, compute,protected data,DeiC,DPA,DeiC and AU,1/1/25,7/1/28
+UCloud,HPC facility, compute,protected data,eScience Center at SDU,DPA,DFM,9/1/25,7/1/28
+LUMI,HPC facility,compute,open data,CSC Finland,LUMI Terms of Use,"DeiC, CSC, and EuroHPC",1/1/26,12/31/27
+IBM Quantum Platform,Cloud-based quantum computing service for research simulations,compute,open data,IBM Research,IBM Cloud Terms of Use,Project-based,5/1/26,7/1/28

@@ -1,0 +1,8 @@
+identifier, collector, legal basis, sharing, collection date, origin
+LLM-Synthetic-Preferences,AU,legal basis for research, Joint data controller agreement in project,see LLM_Synthetic_Preferences_provenance.md,Derived from LLM-generated synthetic data based on textual sources
+Real-Voting-Pilot-Aarhus,Aarhus,legal basis for research, Joint data controller agreement in project,see Real_Voting_Pilot_Aarhus_provenance.md,Collected during pilot events in Aarhus municipality
+Real-Voting-Pilot-Basel,QUANTUM BASEL,legal basis for research, Joint data controller agreement in project,see Real_Voting_Pilot_provenance.md,Collected during pilot events by Quantum Basel and local partners
+Agent-Based-Simulation-Outputs,HYBRID CORE,Not applicable Ð no personal data involved,Open access under CC-BY 4.0,see Agent_Based_Simulation_Outputs_provenance.md,Generated via project-developed agent-based simulations
+Quantum-Voting-Simulations,BIU,Not applicable Ð no personal data involved,Open access under CC-BY 4.0,see Quantum_Voting_Simulations_provenance.md,Generated from quantum simulation experiments
+Simulation-Event-Log,"HYBRID CORE, BIU",Not applicable Ð no personal data involved,Open access under CC-BY 4.0,see Simulation_Event_Log_provenance.md,Generated automatically during simulation and system operation
+Generated-Population-Profiles,"AU, HYBRID CORE, Constructor",Not applicable Ð no personal data involved,Open access under CC-BY 4.0,see Generated_Population_Profiles_provenance.md,Synthesized using LLMs and demographic templates
