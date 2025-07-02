@@ -40,7 +40,7 @@ All non-sensitive metadata and documentation are provided under the **Creative C
 
 ## 🔗 Related Resources
 
-- Project website: _TBD_
+- Project website: https://eurocity2.eu/
 - Zenodo archive (when published): _TBD_
 - GitHub issues and pull requests are used for change tracking and review.
 
