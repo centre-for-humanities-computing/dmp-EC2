@@ -3,6 +3,8 @@
 | Version | Publication Date | Changes                                |
 |---------|------------------|----------------------------------------|
 | 1.0     | 2025-06-30       | Initial version for EC2 project        |
+| 1.1     | 2026-10-08       | Minor changes to the DMP template      |
+
 
 
 ---
@@ -16,7 +18,7 @@
   - Quantum simulation data.
   - Event logs and derived preference graphs.
 - **Formats:**
-  - Structured text: JSON, CSV..
+  - Structured text: JSON, CSV.
   - Documentation and metadata: Markdown, PDF.
 - **Expected Data Size:** Estimated to range across datasets from 200 MB to 10 GB, totaling less than 1TB across the project lifecycle.
 - **Generation and Reuse:** 
